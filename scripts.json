@@ -23,6 +23,24 @@
             "url": "https://raw.githubusercontent.com/komornik13/lua-resources/main/lua/Bone%20Health%20ESP.lua",
             "pfpUrl": "https://cdn.discordapp.com/avatars/1019672431146844160/ba240344d1f1724faf1c6f2fd1b0a944.png?size=1024",
             "name": "Bone Health ESP"
+        },
+        {
+            "username": "3komornik",
+            "url": "https://raw.githubusercontent.com/komornik13/lua-resources/main/lua/3D%20Box%20ESP.lua",
+            "pfpUrl": "https://cdn.discordapp.com/avatars/1201979962345922580/2bfa30fdb996b8afdd2b9351bb11aa2c.png?size=1024",
+            "name": "3D Box ESP"
+        },
+        {
+            "username": "3komornik",
+            "url": "https://raw.githubusercontent.com/komornik13/lua-resources/main/lua/Line%20ESP.lua",
+            "pfpUrl": "https://cdn.discordapp.com/avatars/1201979962345922580/2bfa30fdb996b8afdd2b9351bb11aa2c.png?size=1024",
+            "name": "Line ESP"
+        },
+        {
+            "username": "3komornik",
+            "url": "https://raw.githubusercontent.com/komornik13/lua-resources/main/lua/Tube%20ESP.lua",
+            "pfpUrl": "https://cdn.discordapp.com/avatars/1201979962345922580/2bfa30fdb996b8afdd2b9351bb11aa2c.png?size=1024",
+            "name": "Tube ESP"
         }
     ]
 }
