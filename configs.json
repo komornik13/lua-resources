@@ -6,6 +6,60 @@
             "pfpUrl": "https://cdn.discordapp.com/avatars/254398453826715658/9299dc9db96dba1f7ef1a50f1cb219b7.png?size=1024",
             "name": "rage-aspect.cfg"
         },
+		{
+            "username": "sou_gado_mesmo",
+            "url": "https://raw.githubusercontent.com/komornik13/lua-resources/main/configs/Mediano.cfg",
+            "pfpUrl": "https://cdn.discordapp.com/avatars/691316685084426270/1b05b9aa6731de28f3b517126ddae99d.png?size=1024",
+            "name": "Mediano.cfg"
+        },
+		{
+            "username": "sou_gado_mesmo",
+            "url": "https://raw.githubusercontent.com/komornik13/lua-resources/main/configs/legit-sou_gado_mesmo.cfg",
+            "pfpUrl": "https://cdn.discordapp.com/avatars/691316685084426270/1b05b9aa6731de28f3b517126ddae99d.png?size=1024",
+            "name": "legit-sou_gado_mesmo.cfg"
+        },
+		{
+            "username": "sou_gado_mesmo",
+            "url": "https://raw.githubusercontent.com/komornik13/lua-resources/main/configs/legit.cfg",
+            "pfpUrl": "https://cdn.discordapp.com/avatars/691316685084426270/1b05b9aa6731de28f3b517126ddae99d.png?size=1024",
+            "name": "legit.cfg"
+        },
+		{
+            "username": "ifykyk1",
+            "url": "https://raw.githubusercontent.com/komornik13/lua-resources/main/configs/main.cfg",
+            "pfpUrl": "https://cdn.discordapp.com/avatars/799263600753115138/a4510e89eb3bd4121ac405f24e7e042a.png?size=1024",
+            "name": "main.cfg"
+        },
+		{
+            "username": "aaa35434_07954",
+            "url": "https://raw.githubusercontent.com/komornik13/lua-resources/main/configs/new.cfg",
+            "pfpUrl": "https://cdn.discordapp.com/embed/avatars/0.png",
+            "name": "new.cfg"
+        },
+		{
+            "username": "aaa35434_07954",
+            "url": "https://raw.githubusercontent.com/komornik13/lua-resources/main/configs/smart-hard.cfg",
+            "pfpUrl": "https://cdn.discordapp.com/embed/avatars/0.png",
+            "name": "smart-hard.cfg"
+        },
+		{
+            "username": "sou_gado_mesmo",
+            "url": "https://raw.githubusercontent.com/komornik13/lua-resources/main/configs/semi%20legit.cfg",
+            "pfpUrl": "https://cdn.discordapp.com/avatars/691316685084426270/1b05b9aa6731de28f3b517126ddae99d.png?size=1024",
+            "name": "semi legit.cfg"
+        },
+		{
+            "username": "sou_gado_mesmo",
+            "url": "https://raw.githubusercontent.com/komornik13/lua-resources/main/configs/xitadaso.cfg",
+            "pfpUrl": "https://cdn.discordapp.com/avatars/691316685084426270/1b05b9aa6731de28f3b517126ddae99d.png?size=1024",
+            "name": "xitadaso.cfg"
+        },
+		{
+            "username": "angelcubes18",
+            "url": "https://raw.githubusercontent.com/komornik13/lua-resources/main/configs/ultralegit.cfg",
+            "pfpUrl": "https://cdn.discordapp.com/avatars/801926574885830706/2994b1e2c173c5fc494c06913515a429.png?size=1024",
+            "name": "ultralegit.cfg"
+        }
         {
             "username": "ifykyk1",
             "url": "https://cdn.discordapp.com/attachments/1223224077376819251/1256228753172992060/legit.cfg?ex=669276b2&is=66912532&hm=869e991dec5b5acd76c5d3b972b2b8448772ea43adbfd584b462983ed41c219a&",
